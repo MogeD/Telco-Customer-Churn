@@ -42,9 +42,11 @@ project_root/
 - README.md
 
 USAGE
+
 To run the analysis, you can follow the steps outlined in the Jupyter Notebook "analysis.ipynb" in the "notebooks" directory.
 
-Contributing
+CONTRIBUTING
+
 If you would like to contribute to this project, please follow our Contribution Guidelines.
 
 
