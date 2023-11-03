@@ -2,12 +2,12 @@
 
 TABLE OF CONTENTS
 
-Overview
-Dataset Description
-Analysis Steps
-Project Structure
-Usage
-Contributing
+- Overview
+- Dataset Description
+- Analysis Steps
+- Project Structure
+- Usage
+- Contributing
 
 OVERVIEW
 
