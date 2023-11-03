@@ -27,23 +27,17 @@ PROJECT STRUCTURE
 The project is structured as follows:
 
 project_root/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── scripts/
-│   └── data_preprocessing.py
-│   └── model_training.py
-│
-├── charts/
-│
-├── findings/
-│   └── findings.md
-│
-├── README.md
+ ── data/
+    └── dataset.csv
+ ── notebooks/
+    └── analysis.ipynb
+ ── scripts/
+    └── data_preprocessing.py
+    └── model_training.py
+ ── charts/
+ ── findings/
+    └── findings.md
+ ── README.md
 
 USAGE
 To run the analysis, you can follow the steps outlined in the Jupyter Notebook "analysis.ipynb" in the "notebooks" directory.
