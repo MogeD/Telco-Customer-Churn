@@ -49,5 +49,8 @@ CONTRIBUTING
 
 If you would like to contribute to this project, please follow our Contribution Guidelines.
 
+DATASOURCE
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 For more information, please contact [MogeD] at [davidmoge4@gmail.com].
